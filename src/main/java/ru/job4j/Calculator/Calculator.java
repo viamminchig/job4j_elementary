@@ -1,5 +1,7 @@
-package ru.job4j.Calculator;
+//Не знаю как поправить ошибку в сборке
 
+package ru.job4j.Calculator;
+//Не знаю как поправить ошибку в сборке
 public class Calculator {
     public static void main(String[] args) {
 
