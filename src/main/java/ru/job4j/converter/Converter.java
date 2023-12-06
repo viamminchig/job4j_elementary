@@ -1,3 +1,4 @@
+//Не знаю как поправить ошибку в сборке
 package ru.job4j.converter;
 public class Converter {
     public static float rubleToEuro(float value) {
@@ -16,7 +17,5 @@ public class Converter {
 
         float dollars = rubleToDollar(140);
         System.out.println("140 rubles are " + dollars + " dollars ");
-
-
     }
 }
