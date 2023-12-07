@@ -2,7 +2,7 @@
 
 package ru.job4j.Calculator;
 //Не знаю как поправить ошибку в сборке
-public class Calculator {
+public class calculator {
     public static void main(String[] args) {
 
         int one = 1;
